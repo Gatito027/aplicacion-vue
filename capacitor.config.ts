@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'aplicacion-vue',
-  webDir: 'dist',
+  appId: 'mx.nuube.com',
+  appName: 'MyAppMemories',
+  webDir: 'public',
   bundledWebRuntime: false
 };
 

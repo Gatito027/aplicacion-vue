@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MyAppMemories</string>
+    <string name="title_activity_main">MyAppMemories</string>
+    <string name="package_name">mx.nuube.com</string>
+    <string name="custom_url_scheme">mx.nuube.com</string>
+</resources>
